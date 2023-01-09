@@ -3,3 +3,5 @@
 Dowload Link for Data
 
 [ECOMM DATA.xlsx](https://github.com/manas-palai123/Ecommerce_Sales_Analysis/files/10371942/ECOMM.DATA.xlsx)
+
+Technology Used : Microsoft Power BI and Microsoft Excel
